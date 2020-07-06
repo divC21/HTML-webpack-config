@@ -1,0 +1,13 @@
+{
+  "name": "HTML-Webpack-POC",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+	"build": "webpack ./index.js ./dist/bundle.js"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
